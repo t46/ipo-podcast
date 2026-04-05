@@ -3,7 +3,7 @@
   <channel>
     <title>US IPO Analysis</title>
     <description>米国IPO企業のS-1分析ポッドキャスト</description>
-    <link />
+    <link>https://t46.github.io/ipo-podcast</link>
     <language>ja</language>
     <itunes:author>US IPO Analysis</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -17,9 +17,9 @@
 あなたがもし明日、アメリカに移住したとしよう。仕事があり、収入もある。しかし銀行口座を開いた翌日、車を買おうとしてディーラーに行くと、こう告げられる。「クレジットヒストリーがないので、ローンは組めません」。これは仮定の話ではない。米国の成人の約46%、実に**1億1,900万人**が、クレジットスコアを持たないか、十分な信用履歴がないために、公正な条件での融資を受けられずにいる。
 
 この巨大な「見えない市場」に、独自のAIモデルで切り込んだのが**Lendbuzz**だ。2020年から2025年の5年間で売上高のCAGRは83%、融資実行額のCAGRは82%を達成。驚くべきは、この急成長を**2021年以降の毎期黒字**と両立していることだ。フィンテック企業のIPOで</description>
-      <enclosure url="podcast.mp3" type="audio/mpeg" length="0" />
-      <guid isPermaLink="false">podcast.mp3</guid>
-      <pubDate>Sun, 05 Apr 2026 07:09:23 +0000</pubDate>
+      <enclosure url="https://t46.github.io/ipo-podcast/podcast.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">https://t46.github.io/ipo-podcast/podcast.mp3</guid>
+      <pubDate>Sun, 05 Apr 2026 07:31:18 +0000</pubDate>
       <itunes:duration>00:13:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>

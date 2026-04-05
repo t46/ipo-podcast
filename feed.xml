@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>US IPO Analysis</title>
+    <title>IPO Buzz</title>
     <description>米国IPO企業のS-1分析ポッドキャスト</description>
     <link>https://t46.github.io/ipo-podcast</link>
     <language>ja</language>
-    <itunes:author>US IPO Analysis</itunes:author>
+    <itunes:author>IPO Buzz</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://t46.github.io/ipo-podcast/cover.jpg" />
     <image>
       <url>https://t46.github.io/ipo-podcast/cover.jpg</url>
-      <title>US IPO Analysis</title>
+      <title>IPO Buzz</title>
       <link>https://t46.github.io/ipo-podcast</link>
     </image>
     <itunes:owner>
       <itunes:email>ipobuzz.newsletter@gmail.com</itunes:email>
-      <itunes:name>US IPO Analysis</itunes:name>
+      <itunes:name>IPO Buzz</itunes:name>
     </itunes:owner>
     <item>
       <title>AIが"信用スコアなき人々"を救う -- 移民の創業者が1.19億人のアメリカ人に公正なローンを届けるまで - Lendbuzz Inc.</title>

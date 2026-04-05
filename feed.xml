@@ -7,6 +7,16 @@
     <language>ja</language>
     <itunes:author>US IPO Analysis</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://t46.github.io/ipo-podcast/cover.jpg" />
+    <image>
+      <url>https://t46.github.io/ipo-podcast/cover.jpg</url>
+      <title>US IPO Analysis</title>
+      <link>https://t46.github.io/ipo-podcast</link>
+    </image>
+    <itunes:owner>
+      <itunes:email>ipobuzz.newsletter@gmail.com</itunes:email>
+      <itunes:name>US IPO Analysis</itunes:name>
+    </itunes:owner>
     <item>
       <title>AIが"信用スコアなき人々"を救う -- 移民の創業者が1.19億人のアメリカ人に公正なローンを届けるまで - Lendbuzz Inc.</title>
       <description># AIが"信用スコアなき人々"を救う -- 移民の創業者が1.19億人のアメリカ人に公正なローンを届けるまで
@@ -19,7 +29,7 @@
 この巨大な「見えない市場」に、独自のAIモデルで切り込んだのが**Lendbuzz**だ。2020年から2025年の5年間で売上高のCAGRは83%、融資実行額のCAGRは82%を達成。驚くべきは、この急成長を**2021年以降の毎期黒字**と両立していることだ。フィンテック企業のIPOで</description>
       <enclosure url="https://t46.github.io/ipo-podcast/podcast.mp3" type="audio/mpeg" length="0" />
       <guid isPermaLink="false">https://t46.github.io/ipo-podcast/podcast.mp3</guid>
-      <pubDate>Sun, 05 Apr 2026 07:31:18 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2026 07:38:18 +0000</pubDate>
       <itunes:duration>00:13:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>

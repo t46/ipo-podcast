@@ -22,5 +22,19 @@ Twenty One Capital（ティッカー: XXI）は、Tether、SoftBank、Cantor Fit
       <itunes:duration>00:15:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>原発を「作らない」原発会社 — Amazonとダウが選んだGen IV SMR、X-Energyの勝ち筋 - X-Energy, Inc.</title>
+      <description># 原発を「作らない」原発会社 — Amazonとダウが選んだGen IV SMR、X-Energyの勝ち筋
+
+&gt; "We have an intellectual property-driven business model... we believe will position us to generate attractive free cash flow."
+&gt; （我々は知的財産ドリブンのビジネスモデルを持ち、それが魅力的なフリーキャッシュフローを生み出す位置付けになると信じている） — X-Energy S-1より
+
+AIデータセンターの電力需要は爆発しているのに、従来の大型原発は遅延と巨額コストにまみれている。米ジョージア州のVogtle 3・4号機は1基あたり160億ドル超、7年遅延でようやく稼働した — これはX-Energy自身がS-1で「失敗事例」として引用している現実だ。にもかかわらず、Amazonは2024年にX-Energyに出資し、2039年までに5GWe以上の小型モジュール式原子炉（SMR）「Xe-100」を米国全土に展開するオプションを締結した。S-1曰</description>
+      <enclosure url="podcast.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">podcast.mp3</guid>
+      <pubDate>Tue, 07 Apr 2026 05:47:43 +0000</pubDate>
+      <itunes:duration>00:17:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

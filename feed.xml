@@ -36,5 +36,14 @@ AIデータセンターの電力需要は爆発しているのに、従来の大
       <itunes:duration>00:17:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>X-Energy (XE) — AIが呼ぶ原子力ルネサンス、Amazon・Dowが選んだ「ペブル燃料」の賭け - X-Energy, Inc.</title>
+      <description />
+      <enclosure url="podcast.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">podcast.mp3</guid>
+      <pubDate>Wed, 08 Apr 2026 06:34:36 +0000</pubDate>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>

@@ -36,5 +36,18 @@ AIデータセンターの電力需要は爆発しているのに、従来の大
       <itunes:duration>00:17:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>原子炉を「作らない」原子炉会社 -- Amazon が賭けた X-Energy の IP ライセンスモデル - X-Energy, Inc.</title>
+      <description># 原子炉を「作らない」原子炉会社 -- Amazon が賭けた X-Energy の IP ライセンスモデル
+
+&gt; "DOE describes TRISO particles as 'the most robust nuclear fuel on Earth.'"（米エネルギー省はTRISO粒子を「地球上で最も頑健な核燃料」と評している） -- X-Energy S-1
+
+AI データセンターが電力を食い尽くす時代に、Amazon が直接出資した原子力ベンチャーが米国で IPO を申請した。X-Energy, Inc.（ティッカー: XE）。総収益 1 億 900 万ドル、純損失 3 億 9,000 万ドル -- 数字だけ見れば「赤字の原子力スタートアップ」に映る。だが、その中身を開くと従来の原子力企業とは全く異なるビジネスの設計図が見えてくる。原子炉を所有しない。運転しない。建設すらしない。売るのは知財ライセンスと燃料だけ。半導体における ARM や ASML に近いポジションを、最も資本集約的な産業である原子力の世界で構築しようとしている。あなたが経営するビジネスが「売り切りモ</description>
+      <enclosure url="podcast.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="false">podcast.mp3</guid>
+      <pubDate>Thu, 09 Apr 2026 07:13:33 +0000</pubDate>
+      <itunes:duration>00:15:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
